@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Dell",
+    "image": "https://i.ibb.co/RjkLH9k/Group-4.png",
+    "url": "/dell"
+  },
+  {
+    "id": 2,
+    "name": "Hp",
+    "image": "https://i.ibb.co/R0CnBHD/Group-5.png",
+    "url": "/hp"
+  },
+  {
+    "id": 3,
+    "name": "Apple",
+    "image": "https://i.ibb.co/9HM7HPv/Group-6.png",
+    "url": "/apple"
+  },
+  {
+    "id": 4,
+    "name": "LG",
+    "image": "https://i.ibb.co/HrTfnKn/Group-3.png",
+    "url": "/lg"
+  },
+  {
+    "id": 5,
+    "name": "Google",
+    "image": "https://i.ibb.co/r37jpch/Group-1.png",
+    "url": "/google"
+  },
+  {
+    "id": 6,
+    "name": "Xiaomi",
+    "image": "https://i.ibb.co/3N70JRH/Group-2.png",
+    "url": "/xiaomi"
+  }
+]
